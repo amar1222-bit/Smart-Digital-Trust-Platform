@@ -139,7 +139,7 @@ MAX_FILE_SIZE = (
 # =========================================================
 
 CNN_SERVICE_URL = (
-    "http://127.0.0.1:8001/predict"
+    "https://smart-digital-trust-platform-1.onrender.com/predict"
 )
 
 
