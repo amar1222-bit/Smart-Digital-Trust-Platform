@@ -52,6 +52,9 @@ datasets/
 *.pkl
 *.joblib
 
+!ai_models/image_tampering/tampering_cnn.keras
+!ai_models/image_tampering/tampering_model.pkl
+
 # ==============================
 # IDE / OS Files
 # ==============================
