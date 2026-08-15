@@ -1,0 +1,68 @@
+# ==============================
+# Python Virtual Environments
+# ==============================
+.venv/
+.venv-cnn/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ==============================
+# Frontend / Node
+# ==============================
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# ==============================
+# Environment / Secrets
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# Database
+# ==============================
+*.db
+*.sqlite
+*.sqlite3
+
+# ==============================
+# Uploaded User Images
+# ==============================
+backend/uploads/
+uploads/
+
+# ==============================
+# Large Datasets
+# ==============================
+datasets/
+
+# ==============================
+# AI Model Files
+# ==============================
+*.keras
+*.h5
+*.pkl
+*.joblib
+
+# ==============================
+# IDE / OS Files
+# ==============================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Logs / Temporary Files
+# ==============================
+*.log
+*.tmp
+*.temp
